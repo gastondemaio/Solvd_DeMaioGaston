@@ -1,6 +1,5 @@
 package model;
-
-public class Ticket extends Product{
+ /*class Ticket extends Product{
     private int id_Ticket;
 
     public Ticket(int idProduct, String description, Double price, int quantity, int id_Ticket) {

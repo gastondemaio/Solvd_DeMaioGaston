@@ -13,6 +13,9 @@ public class Person {
         this.id = id;
     }
 
+    public Person(int idPerson, String name, String lastName, int age) {
+    }
+
     @Override
     public String toString() {
         return "Person{" +
